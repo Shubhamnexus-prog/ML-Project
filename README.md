@@ -11,7 +11,6 @@ A Machine Learning web application that predicts student marks based on input fe
 * Easy deployment and scalability
 
 ## Technologies Used
-
 * Python
 * Pandas
 * NumPy
@@ -30,7 +29,6 @@ A Machine Learning web application that predicts student marks based on input fe
 ├── static/
 ├── requirements.txt
 └── README.md
-```
 
 ## Installation
 
